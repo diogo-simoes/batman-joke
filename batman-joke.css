@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
+.screen {
+  width: 640px;
+  height: 480px;
+  margin: 0 auto;
+}
+
+#stage {
+  width: 100%;
+  height: 100%;
+}
+
+#batman, #replay {
+  display: none;
+}
